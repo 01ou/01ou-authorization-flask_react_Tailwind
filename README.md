@@ -1,4 +1,4 @@
-# flask_and_react_template
+# authorization-flask_react_Tailwind
 
 ## command
 npx create-react-app frontend
@@ -30,5 +30,4 @@ flask db init
 
 flask db migrate -m ""
 flask db upgrade
-# authorization-flask_react_Tailwind
-# 01ou-authorization-flask_react_Tailwind
+
